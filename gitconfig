@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = azin.mazloom@gmail.com
+	name = azin mazloom jalali
